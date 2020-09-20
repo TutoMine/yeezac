@@ -1,8 +1,8 @@
 {
-  "discord_token": "bot token",
-  "botid": "id del bot",
-  "prefix": "y!",
-  "yt_api_key": "api key de youtube",
-  "ownerid": "tu discord id",
-  "sc_clientid": "tu soundcloud client id"
+  "discord_token": "NzQ1Njc1OTQzOTAwODcyNzA0.Xz1O1w.SjWh3ItcncHD9yEndXO19tv0H0A",
+  "botid": "745675943900872704",
+  "prefix": "s!",
+  "yt_api_key": "",
+  "ownerid": "687620089712869405",
+  "sc_clientid": "114142120"
 }
